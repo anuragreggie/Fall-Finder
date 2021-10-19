@@ -1,4 +1,5 @@
 # FallFinder 🔎
+**Note: the source code of the program cannot be shared as it is a property of Arm Ltd**
 ## ❗ Team 42 ❗
 * **Zachariah Newbery** - GPU: Runtime Diagnostics
 * **Anurag Suresh** - CPU: System Validation with OS 
